@@ -29,7 +29,7 @@
 
             <!-- Page Content -->
             <main>
-                {{ $slot }}
+                {{-- {{ $slot }}  descomenta isso depois --}}
             </main>
         </div>
     </body>
